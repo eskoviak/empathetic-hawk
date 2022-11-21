@@ -4,6 +4,7 @@
     <enableApiUserLtngOutAccessPref>false</enableApiUserLtngOutAccessPref>
     <enableAuraCDNPref>true</enableAuraCDNPref>
     <enableAuraDepAccessChksCRUCPref xsi:nil="true"/>
+    <enableAuraSecStaticResCRUCPref>false</enableAuraSecStaticResCRUCPref>
     <enableFeedbackInMobile>true</enableFeedbackInMobile>
     <enableIE11DeprecationMsgHidden>false</enableIE11DeprecationMsgHidden>
     <enableIE11LEXCrucPref>false</enableIE11LEXCrucPref>
@@ -19,6 +20,8 @@
     <enableLexEndUsersNoSwitching>false</enableLexEndUsersNoSwitching>
     <enableLightningPrintableView xsi:nil="true"/>
     <enableNavPersonalizationOptOut>false</enableNavPersonalizationOptOut>
+    <enableNoBackgroundNavigations>false</enableNoBackgroundNavigations>
+    <enableQuip>false</enableQuip>
     <enableRemoveThemeBrandBanner>false</enableRemoveThemeBrandBanner>
     <enableS1BannerPref>true</enableS1BannerPref>
     <enableS1BrowserEnabled>true</enableS1BrowserEnabled>
